@@ -28,7 +28,7 @@ This setup is perfect for developers or data enthusiasts who want to read, manip
    ```
 
 2. **Run the Script**:
-   - Double-click `Excel Automation.ps1` (or run via PowerShell: `.\Excel Automation.ps1`).
+   - Double-click `Excel Automate.ps1` (or run via PowerShell: `.\Excel Automate.ps1`).
    The script will handle everything: install Bun, dependencies, and generate `main.js` if needed.
 
 3. **Customize**:
