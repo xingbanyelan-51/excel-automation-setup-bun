@@ -28,8 +28,8 @@ This setup is perfect for developers or data enthusiasts who want to read, manip
    ```
 
 2. **Run the Script**:
-   - Double-click `ExcelAutomationSetup.ps1` (or run via PowerShell: `.\ExcelAutomationSetup.ps1`).
-   - The script will handle everything: install Bun, dependencies, and generate `main.js` if needed.
+   - Double-click `Excel Automation.ps1` (or run via PowerShell: `.\Excel Automation.ps1`).
+   The script will handle everything: install Bun, dependencies, and generate `main.js` if needed.
 
 3. **Customize**:
    - Edit `main.js` to add your Excel processing logic (e.g., reading sheets, modifying data).
